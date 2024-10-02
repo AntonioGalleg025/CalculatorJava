@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbcf757-5997-4044-8635-63c07207b4ca" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/src/version.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,25 +31,28 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2mnoj0FsfNWltOONAilLcGcySC7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/antoniogallego/Desktop/Universidad/Diseño e implementacion de software/CalculadoraFlow/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "release/0.5.0",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/antoniogallego/Desktop/Universidad/Diseño e implementacion de software/CalculadoraFlow/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.general",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -68,7 +72,7 @@
       <workItem from="1727721833434" duration="732000" />
       <workItem from="1727722572330" duration="528000" />
       <workItem from="1727735995998" duration="357000" />
-      <workItem from="1727890667117" duration="313000" />
+      <workItem from="1727890667117" duration="637000" />
     </task>
     <servers />
   </component>
@@ -80,7 +84,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
