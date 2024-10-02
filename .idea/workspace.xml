@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbbcf757-5997-4044-8635-63c07207b4ca" name="Changes" comment="" />
+    <list default="true" id="bbbcf757-5997-4044-8635-63c07207b4ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/src/version.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Diseño e implementacion de software/CalculadoraFlow/src/version.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +72,7 @@
       <workItem from="1727721833434" duration="732000" />
       <workItem from="1727722572330" duration="528000" />
       <workItem from="1727735995998" duration="357000" />
-      <workItem from="1727890667117" duration="1056000" />
+      <workItem from="1727890667117" duration="4574000" />
     </task>
     <servers />
   </component>
