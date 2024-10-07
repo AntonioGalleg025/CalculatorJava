@@ -31,8 +31,13 @@ public class Main {
                 int num2 = scanner.nextInt();
                 System.out.println(operators.add(num1, num2));
                 break;
-            case 0:
+                case 0:
                 System.out.println("Goodbye!");
+                break;
+
+                default:
+                    System.out.println("igjroighroig");
+                    break;
                 break;
         }
 
